@@ -1,0 +1,3 @@
+# Data Structures Practice Repository
+
+This repository houses all the data structure implementations and practice exercises that I've worked on during my college and free time. It serves as a comprehensive collection of code snippets and projects aimed at mastering various data structures and algorithms. Whether it's assignments from courses or personal projects undertaken to solidify my understanding of fundamental data structures, this repository encapsulates a wide range of coding endeavors. It reflects my dedication to honing my skills in data structures and algorithms for effective problem-solving and software development.
